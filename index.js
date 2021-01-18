@@ -287,4 +287,4 @@ const listener = app.listen(process.env.PORT, () => {
   console.log("Your app is listening on port " + listener.address().port);
 });
 
-bot.login("NzgxMzcwNTM2NDIwNDQyMTEz.X78qBQ.uWy9t1yQQlQ5ix69XZPaJtKbkbk");
+bot.login("Nzg5MjMzOTc0Nzk4MzE5NjQ4.X9vFag.7_8ao8RpiXnoQBPwxAw0NuyYFq4");
