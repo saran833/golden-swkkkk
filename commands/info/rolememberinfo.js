@@ -3,7 +3,7 @@ const { MessageEmbed } = require('discord.js');
 module.exports = {
     config: {
         name: "rolememberinfo",
-        aliases: ['rolemembers', 'rmi'],
+        aliases: ['rolemembers', 'inrole'],
         category: "info",
         description: "Shows List Of Members Having A Role",
         usage: "[role name | role mention | ID]",
